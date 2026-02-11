@@ -1,6 +1,6 @@
-# 📄 Smart PDF Assistant
+# 📄 Rag ChatBot
 
-## Smart PDF Assistant is a lightweight, interactive Streamlit web app that lets you:
+## Rag ChatBot is a lightweight, interactive Streamlit web app that lets you:
 
 📤 Upload any PDF
 
